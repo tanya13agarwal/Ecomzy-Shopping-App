@@ -44,7 +44,7 @@ npm install
 ```
 
 
-<p>4. Start the application</p>
+<p>3. Start the application</p>
 
 ```
 npm run start
